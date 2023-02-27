@@ -11,7 +11,7 @@ li {
 li a {
     display: inline;
     padding: 16px;
-    background-color: white);
+    background-color: white;
     text-decoration: none;
 }
 .search{
@@ -20,10 +20,10 @@ li a {
 }
 .button{
   color:#45a049
-  width: 200px
+  width: 200px;
 }
 .img{
-    width: 200;
+    width: 200px;
     left: 900px;
     border-radius: 4px;
   }
@@ -43,8 +43,8 @@ li a {
   
 }
 .form{
-   width: 500px;
-   background-color: white;
+  width: 500px;
+  background-color: white;
 }
 
 input[type=text], select {
